@@ -58,7 +58,6 @@ https://www.hackerrank.com/bhavyaaggarwal22
 <code><a href="https://jupyter.org/documentation">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
 </a></code>
-
 <code><a href="https://git-scm.com/docs/gittutorial">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </a></code>
