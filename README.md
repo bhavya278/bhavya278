@@ -16,7 +16,6 @@ https://www.hackerrank.com/bhavyaaggarwal22
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-# Hello Everyone <img height="60" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif">
 
 <br/>
 <br/>
