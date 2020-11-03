@@ -38,6 +38,10 @@ https://www.hackerrank.com/bhavyaaggarwal22
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 </a></code>
 
+<code><a href="https://www.w3schools.com/w3css/defaulT.asp">
+    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+</a></code>
+
 <code><a href="https://v5.getbootstrap.com/docs/5.0/getting-started/introduction/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
 </a></code>
