@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hey 👋, This is Bhavya Aggarwal
+### About me 🤓
+Love Compedative coding       
+Codechef Profile :-
+https://www.codechef.com/users/bhavya_agg   
+Hackerrank Profile :-
+https://www.hackerrank.com/bhavyaaggarwal22
 
-<!--
-**bhavya278/bhavya278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Skills:** C | CPP | Java | Python | HTML | CSS | Javascript | Django
 
-Here are some ideas to get you started:
+- ✍️ I am currently learning Django
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱  I am currently looking to collaborate on Web Projects
+
+<a href = https://www.linkedin.com/in/bhavya-aggarwal-ba54b4194><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/bhavya278><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a> • <a href = https://twitter.com/Bhavyaa76679282><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg height='30' weight='30'></a>
