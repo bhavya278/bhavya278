@@ -31,6 +31,9 @@ https://www.hackerrank.com/bhavyaaggarwal22
 <code><a href="https://www.python.org/doc/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 </a></code>
+<code><a href="https://www.cplusplus.com/">
+    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+</a></code>
 
 ## Front End 
 
