@@ -52,6 +52,9 @@ https://www.hackerrank.com/bhavyaaggarwal22
 <code><a href="https://docs.djangoproject.com/en/3.1/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
 </a></code>
+<code><a href="https://github.com/postgres">
+    <img height="35" src="https://res.cloudinary.com/practicaldev/image/fetch/s--gaI7Ff9D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6lu26u1oaysf8cdfiiux.png">
+</a></code>
 
 ## Other Skills &nbsp;&nbsp; <img height="23" src="https://media.giphy.com/media/ccRrcecpw9PaM/giphy.gif">
 
