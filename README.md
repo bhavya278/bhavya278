@@ -10,7 +10,6 @@ https://www.hackerearth.com/@bhavya628
 Codeforces Profile :-
 https://codeforces.com/profile/_bhavya.aggarwal_
 
-**Skills:** C | CPP | Java | Python | HTML | CSS | Javascript | Django
 
 - ✍️ I am currently learning Django
 
@@ -113,6 +112,6 @@ https://codeforces.com/profile/_bhavya.aggarwal_
 <br><br>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imyogeshgaur&theme=monokai&row=1&column=6" alt="rohitsinghkcodes" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavya278&theme=monokai&row=1&column=6" alt="bhavya278" /></a> </p>
 <br> 
 <br><br>
