@@ -78,7 +78,7 @@ https://codeforces.com/profile/_bhavya.aggarwal_
 ## Contact Me &nbsp;&nbsp;<img height="30" src="https://media.giphy.com/media/PkXF1fEvGdGOa8PCWU/giphy.gif">
 
 
-<a href="https://www.linkedin.com/in/bhavya-aggarwal-ba54b4194/"  target="_yogesh">
+<a href="https://www.linkedin.com/in/bhavya-aggarwal-ba54b4194/"  target="_bhavya">
   <img align="left" alt="Linkedin Icon" height="35" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" />
 </a>
 <a href="https://github.com/bhavya278/"  target="_bhavya">
