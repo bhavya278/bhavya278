@@ -1,7 +1,9 @@
 # Hey 👋, This is Bhavya Aggarwal
 ### About me 🤓
-Love Compedative coding       
+Love Compedative coding    
+<br>
 <p>Codechef Profile :-<a href="https://www.codechef.com/users/bhavya_agg "></a></p>
+<br>
 Hackerrank Profile :-
 https://www.hackerrank.com/bhavyaaggarwal22       
 Hackerearth Profile :-
