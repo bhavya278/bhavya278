@@ -89,10 +89,10 @@ https://codeforces.com/profile/_bhavya.aggarwal_
 ' target="_bhavya">
   <img align="left" alt="Medium Icon" height="35" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />
 </a>
-<a href='https://www.instagram.com/_bhavya.aggarwal_/'  target="_yogesh">
+<a href='https://www.instagram.com/_bhavya.aggarwal_/'  target="_bhavya">
   <img align="left" alt="Instagram Icon" height="35" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />
 </a>
-<a href='https://www.facebook.com/bhavya.aggarwal.3363/'  target="_yogesh">
+<a href='https://www.facebook.com/bhavya.aggarwal.3363/'  target="_bhavya">
   <img align="left" alt="Facebook Icon" height="35" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/F_icon.svg" />
 </a>
 <a href="https://t.me/bhavya278"  target="_bhavya">
