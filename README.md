@@ -1,6 +1,6 @@
 # Hey 👋, This is Bhavya Aggarwal
 ### About me 🤓
-Love Compedative coding    
+Love competitive coding    
 
 Codechef Profile :-
 https://www.codechef.com/users/bhavya_agg      
