@@ -2,8 +2,9 @@
 ### About me 🤓
 Love competitive coding    
 
-Codechef Profile :- <a href="https://www.codechef.com/users/bhavya_agg"  target="_bhavya">
+<h3>Codechef Profile :- </h3><a href="https://www.codechef.com/users/bhavya_agg"  target="_bhavya">
 <br/>
+    
 Hackerrank Profile :-https://www.hackerrank.com/bhavyaaggarwal22       
 
 Hackerearth Profile :-https://www.hackerearth.com/@bhavya628  
