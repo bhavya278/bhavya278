@@ -2,8 +2,8 @@
 ### About me 🤓
 Love competitive coding    
 
-Codechef Profile :-https://www.codechef.com/users/bhavya_agg
-
+Codechef Profile :- <a href="https://www.codechef.com/users/bhavya_agg"  target="_bhavya">
+<br/>
 Hackerrank Profile :-https://www.hackerrank.com/bhavyaaggarwal22       
 
 Hackerearth Profile :-https://www.hackerearth.com/@bhavya628  
@@ -11,9 +11,11 @@ Hackerearth Profile :-https://www.hackerearth.com/@bhavya628
 GeeksForGeeks Profile :-https://auth.geeksforgeeks.org/user/bhavyaaggarwal278/practice/
 
 
+
 - ✍️ I am currently learning Django
 
 - 🌱  I am currently looking to collaborate on Web Projects
+- 
 
 <a href = https://www.linkedin.com/in/bhavya-aggarwal-ba54b4194><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/bhavya278><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a> • <a href = https://twitter.com/Bhavyaa76679282><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg height='30' weight='30'></a>
 
