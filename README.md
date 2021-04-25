@@ -2,15 +2,13 @@
 ### About me 🤓
 Love competitive coding    
 
-Codechef Profile :-
-https://www.codechef.com/users/bhavya_agg
+Codechef Profile :-https://www.codechef.com/users/bhavya_agg
 
-Hackerrank Profile :-
-https://www.hackerrank.com/bhavyaaggarwal22       
-Hackerearth Profile :-
-https://www.hackerearth.com/@bhavya628               
-GeeksForGeeks Profile :-
-https://auth.geeksforgeeks.org/user/bhavyaaggarwal278/practice/
+Hackerrank Profile :-https://www.hackerrank.com/bhavyaaggarwal22       
+
+Hackerearth Profile :-https://www.hackerearth.com/@bhavya628  
+
+GeeksForGeeks Profile :-https://auth.geeksforgeeks.org/user/bhavyaaggarwal278/practice/
 
 
 - ✍️ I am currently learning Django
