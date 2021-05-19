@@ -2,12 +2,9 @@
 ### About me 🤓
 <h2>Love competitive coding </h2>   
 <br>
-<a href="https://www.codechef.com/users/bhavya_agg" target="_bhavya">CodeChef Profile</a>
-<br>
-<a href="https://www.hackerrank.com/bhavyaaggarwal22" target="_bhavya"> Hackerrank Profile </a>  
- <br>      
-<a href="https://www.hackerearth.com/@bhavya628 " target="_bhavya"> Hackerearth Profile </a>  
-<br>      
+<a href="https://www.codechef.com/users/bhavya_agg" target="_bhavya">CodeChef Profile </a>
+<a href="https://www.hackerrank.com/bhavyaaggarwal22" target="_bhavya"> Hackerrank Profile </a>   
+<a href="https://www.hackerearth.com/@bhavya628 " target="_bhavya"> Hackerearth Profile </a>      
 <a href="https://auth.geeksforgeeks.org/user/bhavyaaggarwal278/practice/" target="_bhavya"> GeeksForGeeks Profile </a>  
 <br>      
 
