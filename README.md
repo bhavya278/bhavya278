@@ -1,7 +1,7 @@
 # Hey 👋, This is Bhavya Aggarwal
 ### About me 🤓
 Love competitive coding    
-<a href="https://www.codechef.com/users/bhavya_agg"></a>
+<a href="https://www.codechef.com/users/bhavya_agg">CodeChef Profile</a>
 <br>
     
 Hackerrank Profile :-https://www.hackerrank.com/bhavyaaggarwal22       
