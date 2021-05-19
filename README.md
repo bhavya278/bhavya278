@@ -83,7 +83,7 @@
 <a href="https://www.linkedin.com/in/bhavya-aggarwal-ba54b4194/"  target="_bhavya">
   <img align="left" alt="Linkedin Icon" height="35" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" />
 </a>
-<a href="https://github.com/bhavya278/"  target="_bhavya">
+<a href="https://twitter.com/Bhavyaa76679282"  target="_bhavya">
   <img align="left" alt="Twitter Icon" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />
 </a>
 <a href='https://medium.com/@bhavyaaggarwal278
