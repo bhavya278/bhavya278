@@ -1,8 +1,8 @@
 # Hey 👋, This is Bhavya Aggarwal
 ### About me 🤓
 Love competitive coding    
-
-Codechef Profile :- https://www.codechef.com/users/bhavya_agg
+<a href="https://www.codechef.com/users/bhavya_agg"></a>
+<br>
     
 Hackerrank Profile :-https://www.hackerrank.com/bhavyaaggarwal22       
 
@@ -50,6 +50,9 @@ GeeksForGeeks Profile :-https://auth.geeksforgeeks.org/user/bhavyaaggarwal278/pr
 </a></code>
 <code><a href="https://v5.getbootstrap.com/docs/5.0/getting-started/introduction/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+</a></code>
+<code><a href="https://reactjs.org/">
+    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 </a></code>
 
 ## Back End and Database
