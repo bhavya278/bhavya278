@@ -2,11 +2,11 @@
 ### About me 🤓
 <h2>Love competitive coding </h2>   
 <br>
-<a href="https://www.codechef.com/users/bhavya_agg" target="_blank">CodeChef Profile &nbsp;&nbsp;</a>
-<a href="https://www.hackerrank.com/bhavyaaggarwal22" target="_blank"> Hackerrank Profile &nbsp;&nbsp;</a>   
-<a href="https://www.hackerearth.com/@bhavya628 " target="_blank"> Hackerearth Profile &nbsp;&nbsp;</a>      
-<a href="https://auth.geeksforgeeks.org/user/bhavyaaggarwal278/practice/" target="_blank"> GeeksForGeeks Profile &nbsp;&nbsp; </a> 
-<a href="https://leetcode.com/bhavya278/" target="_blank"> LeetCode Profile &nbsp;&nbsp; </a> 
+<a href="https://www.codechef.com/users/bhavya_agg" >CodeChef Profile &nbsp;&nbsp;</a>
+<a href="https://www.hackerrank.com/bhavyaaggarwal22" > Hackerrank Profile &nbsp;&nbsp;</a>   
+<a href="https://www.hackerearth.com/@bhavya628 " > Hackerearth Profile &nbsp;&nbsp;</a>      
+<a href="https://auth.geeksforgeeks.org/user/bhavyaaggarwal278/practice/" > GeeksForGeeks Profile &nbsp;&nbsp; </a> 
+<a href="https://leetcode.com/bhavya278/" > LeetCode Profile &nbsp;&nbsp; </a> 
 <br>      
 
 - ✍️ I am currently learning React And Django
