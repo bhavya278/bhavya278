@@ -4,7 +4,7 @@
 <br>
 <a href="https://www.codechef.com/users/bhavya_agg" >CodeChef Profile &nbsp;&nbsp;</a>
 <a href="https://www.hackerrank.com/bhavyaaggarwal22" > Hackerrank Profile &nbsp;&nbsp;</a>   
-<a href="https://www.hackerearth.com/@bhavya628 " > Hackerearth Profile &nbsp;&nbsp;</a>      
+<a href="https://www.hackerearth.com/@bhavya628 " > HackerEarth Profile &nbsp;&nbsp;</a>      
 <a href="https://auth.geeksforgeeks.org/user/bhavyaaggarwal278/practice/" > GeeksForGeeks Profile &nbsp;&nbsp; </a> 
 <a href="https://leetcode.com/bhavya278/" > LeetCode Profile &nbsp;&nbsp; </a> 
 <br>      
