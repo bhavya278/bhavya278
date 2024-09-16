@@ -19,60 +19,71 @@
 <br>
 
 ## Languages Used
-<code><a href="https://www.cplusplus.com/">
+<a href="https://www.cplusplus.com/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
-</a></code>
-<code><a href="https://www.cplusplus.com/">
+</a>
+&nbsp;
+<a href="https://www.cplusplus.com/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-</a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-</a></code>
-<code><a href="https://www.python.org/doc/">
+</a>
+&nbsp;
+<a href="https://www.python.org/doc/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-</a></code>
-<code><a href="https://www.cplusplus.com/">
+</a>
+&nbsp;
+<a href="https://www.cplusplus.com/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
-</a></code>
+</a>
 
 ## Front End 
 
-<code><a href="https://www.w3schools.com/html/default.asp">
+<a href="https://www.w3schools.com/html/default.asp">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-</a></code>
-<code><a href="https://www.w3schools.com/w3css/defaulT.asp">
+</a>
+&nbsp;
+<a href="https://www.w3schools.com/w3css/defaulT.asp">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-</a></code>
-<code><a href="https://v5.getbootstrap.com/docs/5.0/getting-started/introduction/">
+</a>
+&nbsp;
+<a href="https://v5.getbootstrap.com/docs/5.0/getting-started/introduction/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-</a></code>
-<code><a href="https://reactjs.org/">
+</a>
+&nbsp;
+<a href="https://reactjs.org/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-</a></code>
+</a>
 
 ## Back End and Database
 
-<code><a href="https://docs.djangoproject.com/en/3.1/">
+<a href="https://docs.djangoproject.com/en/3.1/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
-</a></code>
-<code><a href="https://github.com/postgres">
+</a>
+&nbsp;
+<a href="https://github.com/postgres">
     <img height="35" src="https://res.cloudinary.com/practicaldev/image/fetch/s--gaI7Ff9D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6lu26u1oaysf8cdfiiux.png">
-</a></code>
-<code><a href="https://docs.oracle.com/cd/E17952_01/index.html">
+</a>
+&nbsp;
+<a href="https://docs.oracle.com/cd/E17952_01/index.html">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</a></code>
+</a>
 
 ## Other Skills &nbsp;&nbsp; <img height="23" src="https://media.giphy.com/media/ccRrcecpw9PaM/giphy.gif">
 
-<code><a href="https://code.visualstudio.com/docs">
+<a href="https://code.visualstudio.com/docs">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-</a></code>
-<code><a href="https://jupyter.org/documentation">
+</a>
+&nbsp;
+<a href="https://jupyter.org/documentation">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
-</a></code>
-<code><a href="https://git-scm.com/docs/gittutorial">
+</a>
+&nbsp;
+<a href="https://git-scm.com/docs/gittutorial">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-</a></code>
+</a>
 
 
 ## Contact Me &nbsp;&nbsp;<img height="30" src="https://media.giphy.com/media/PkXF1fEvGdGOa8PCWU/giphy.gif">
