@@ -153,13 +153,26 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/bhavya-aggarwal-ba54b4194/"><img src="https://skillicons.dev/icons?i=linkedin" height="42"/></a>
-<a href="https://twitter.com/Bhavyaa76679282"><img src="https://skillicons.dev/icons?i=twitter" height="42"/></a>
-<a href="https://www.instagram.com/_bhavya.aggarwal_/"><img src="https://skillicons.dev/icons?i=instagram" height="42"/></a>
-<a href="https://t.me/bhavya278"><img src="https://skillicons.dev/icons?i=twitter" height="42"/></a>
-<a href="https://medium.com/@bhavyaaggarwal278"><img src="https://cdn.simpleicons.org/medium/ffffff" height="42"/></a>
-</p>
+  <a href="https://www.linkedin.com/in/bhavya-aggarwal-ba54b4194/" style="margin-right:12px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+  </a>
 
+  <a href="https://twitter.com/Bhavyaa76679282" style="margin-right:12px;">
+    <img src="https://skillicons.dev/icons?i=twitter" height="42"/>
+  </a>
+
+  <a href="https://www.instagram.com/_bhavya.aggarwal_/" style="margin-right:12px;">
+    <img src="https://skillicons.dev/icons?i=instagram" height="42"/>
+  </a>
+
+  <a href="https://t.me/bhavya278" style="margin-right:12px;">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="42"/>
+  </a>
+
+  <a href="https://medium.com/@bhavyaaggarwal278">
+    <img src="https://cdn.simpleicons.org/medium/ffffff" height="42"/>
+  </a>
+</p>
 
 ---
 
