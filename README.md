@@ -103,27 +103,25 @@
 # 🏆 Competitive Programming
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/bhavya-aggarwal-ba54b4194/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" hspace="8"/>
+  </a>
 
-<a href="https://leetcode.com/bhavya278">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+  <a href="https://twitter.com/Bhavyaa76679282">
+    <img src="https://skillicons.dev/icons?i=twitter" height="42" hspace="8"/>
+  </a>
 
-<a href="https://www.codechef.com/users/bhavya_agg">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+  <a href="https://www.instagram.com/_bhavya.aggarwal_/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="42" hspace="8"/>
+  </a>
 
-<a href="https://www.hackerrank.com/bhavyaaggarwal22">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
+  <a href="https://t.me/bhavya278">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="42" hspace="8"/>
+  </a>
 
-<a href="https://www.hackerearth.com/@bhavya628">
-<img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge"/>
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/bhavyaaggarwal278/practice/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
+  <a href="https://medium.com/@bhavyaaggarwal278">
+    <img src="https://cdn.simpleicons.org/medium/ffffff" height="42" hspace="8"/>
+  </a>
 </p>
 
 
