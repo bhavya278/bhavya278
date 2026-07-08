@@ -153,9 +153,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bhavya278&theme=algolia&margin-w=15&margin-h=15&column=4"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=bhavya278&theme=onedark&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
 
 ---
