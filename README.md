@@ -1,117 +1,231 @@
-# Hey 👋, This is Bhavya Aggarwal
-### About me 🤓
-<h2>Love competitive coding </h2>   
-<br>
-<a href="https://www.codechef.com/users/bhavya_agg" >CodeChef Profile &nbsp;&nbsp;</a>
-<a href="https://www.hackerrank.com/bhavyaaggarwal22" > Hackerrank Profile &nbsp;&nbsp;</a>   
-<a href="https://www.hackerearth.com/@bhavya628 " > HackerEarth Profile &nbsp;&nbsp;</a>      
-<a href="https://auth.geeksforgeeks.org/user/bhavyaaggarwal278/practice/" > GeeksForGeeks Profile &nbsp;&nbsp; </a> 
-<a href="https://leetcode.com/bhavya278/" > LeetCode Profile &nbsp;&nbsp; </a> 
-<br>      
+# Hi there 👋, I'm Bhavya Aggarwal
 
-- ✍️ I am currently learning React And Django
+<h3 align="center">🚀 Senior Java Backend Developer | Spring Boot | Microservices | AWS | DevOps Enthusiast</h3>
 
-- 🌱  I am currently looking to collaborate on Web Projects
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=0A66C2&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices+Expert;AWS+%7C+Docker+%7C+Kubernetes;DevSecOps+Learner;Competitive+Programmer" />
+</p>
 
+---
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-<br>
+## 👨‍💻 About Me
 
-## Languages Used
-<code><a href="https://www.cplusplus.com/">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
-</a></code>
-<code><a href="https://www.cplusplus.com/">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-</a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-</a></code>
-<code><a href="https://www.python.org/doc/">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-</a></code>
-<code><a href="https://www.cplusplus.com/">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
-</a></code>
+- 💼 Senior Java Backend Developer with **4+ years of experience**
+- 🚀 Building scalable backend applications using **Java & Spring Boot**
+- 🌱 Currently learning **DevSecOps, Kubernetes, Terraform & AWS**
+- 🔥 Passionate about **System Design, Microservices & Clean Architecture**
+- 💡 Strong knowledge of **DSA & Competitive Programming**
+- 🤝 Open to collaborating on **Backend, Cloud & Open Source Projects**
+- 📫 Reach me on **LinkedIn**
 
-## Front End 
+---
 
-<code><a href="https://www.w3schools.com/html/default.asp">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-</a></code>
-<code><a href="https://www.w3schools.com/w3css/defaulT.asp">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-</a></code>
-<code><a href="https://v5.getbootstrap.com/docs/5.0/getting-started/introduction/">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-</a></code>
-<code><a href="https://reactjs.org/">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-</a></code>
+# 💻 Tech Stack
 
-## Back End and Database
+## 🚀 Languages
 
-<code><a href="https://docs.djangoproject.com/en/3.1/">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
-</a></code>
-<code><a href="https://github.com/postgres">
-    <img height="35" src="https://res.cloudinary.com/practicaldev/image/fetch/s--gaI7Ff9D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6lu26u1oaysf8cdfiiux.png">
-</a></code>
-<code><a href="https://docs.oracle.com/cd/E17952_01/index.html">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</a></code>
+<p>
+<img src="https://skillicons.dev/icons?i=java" height="45"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="45"/>
+<img src="https://skillicons.dev/icons?i=c" height="45"/>
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+<img src="https://skillicons.dev/icons?i=typescript" height="45"/>
+</p>
 
-## Other Skills &nbsp;&nbsp; <img height="23" src="https://media.giphy.com/media/ccRrcecpw9PaM/giphy.gif">
+---
 
-<code><a href="https://code.visualstudio.com/docs">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-</a></code>
-<code><a href="https://jupyter.org/documentation">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
-</a></code>
-<code><a href="https://git-scm.com/docs/gittutorial">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-</a></code>
+## 🎨 Frontend
 
+<p>
+<img src="https://skillicons.dev/icons?i=html" height="45"/>
+<img src="https://skillicons.dev/icons?i=css" height="45"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
+<img src="https://skillicons.dev/icons?i=react" height="45"/>
+<img src="https://skillicons.dev/icons?i=angular" height="45"/>
+</p>
 
-## Contact Me &nbsp;&nbsp;<img height="30" src="https://media.giphy.com/media/PkXF1fEvGdGOa8PCWU/giphy.gif">
+---
 
+## ⚙ Backend
 
-<a href="https://www.linkedin.com/in/bhavya-aggarwal-ba54b4194/"  target="_bhavya">
-  <img align="left" alt="Linkedin Icon" height="35" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" />
+<p>
+<img src="https://skillicons.dev/icons?i=spring" height="45"/>
+<img src="https://skillicons.dev/icons?i=hibernate" height="45"/>
+<img src="https://skillicons.dev/icons?i=maven" height="45"/>
+<img src="https://skillicons.dev/icons?i=gradle" height="45"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+<img src="https://skillicons.dev/icons?i=express" height="45"/>
+</p>
+
+---
+
+## 🗄 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
+</p>
+
+---
+
+## ☁ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws" height="45"/>
+<img src="https://skillicons.dev/icons?i=docker" height="45"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" height="45"/>
+<img src="https://skillicons.dev/icons?i=jenkins" height="45"/>
+<img src="https://skillicons.dev/icons?i=terraform" height="45"/>
+<img src="https://skillicons.dev/icons?i=ansible" height="45"/>
+<img src="https://skillicons.dev/icons?i=linux" height="45"/>
+<img src="https://skillicons.dev/icons?i=nginx" height="45"/>
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+<img src="https://skillicons.dev/icons?i=idea" height="45"/>
+<img src="https://skillicons.dev/icons?i=postman" height="45"/>
+<img src="https://skillicons.dev/icons?i=githubactions" height="45"/>
+</p>
+
+---
+
+# 🏆 Competitive Programming
+
+<p align="center">
+
+<a href="https://leetcode.com/bhavya278">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
-<a href="https://twitter.com/Bhavyaa76679282"  target="_bhavya">
-  <img align="left" alt="Twitter Icon" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />
-</a>
-<a href='https://medium.com/@bhavyaaggarwal278
-' target="_bhavya">
-  <img align="left" alt="Medium Icon" height="35" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />
-</a>
-<a href='https://www.instagram.com/_bhavya.aggarwal_/'  target="_bhavya">
-  <img align="left" alt="Instagram Icon" height="35" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />
-</a>
-<a href='https://www.facebook.com/bhavya.aggarwal.3363/'  target="_bhavya">
-  <img align="left" alt="Facebook Icon" height="35" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/F_icon.svg" />
-</a>
-<a href="https://t.me/bhavya278"  target="_bhavya">
-  <img align="left" alt="Telegram Icon" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />
+
+<a href="https://www.codechef.com/users/bhavya_agg">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
+<a href="https://www.hackerrank.com/bhavyaaggarwal22">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
-<br/>
-<br/>
-<br/>
-<br/>
+<a href="https://www.hackerearth.com/@bhavya628">
+<img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge"/>
+</a>
 
+<a href="https://auth.geeksforgeeks.org/user/bhavyaaggarwal278/practice/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
-## Github Stats <img height="45px" src="https://media.giphy.com/media/fapvHdWzoHtYY/giphy.gif">
-<br>
-<img  height='130px' src="https://github-readme-stats.vercel.app/api?username=bhavya278&hide_title=true&show_icons=true&hide=issues&count_private=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=radical&text_color=C300FF&icon_color=3D33FF" />
-<br>
-<br><br>
+</p>
 
+---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavya278&theme=monokai&row=1&column=6" alt="bhavya278" /></a> </p>
-<br> 
-<br><br>
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhavya278&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya278&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=bhavya278&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bhavya278&theme=algolia&margin-w=15&margin-h=15&column=4"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavya278&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/bhavya-aggarwal-ba54b4194/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://twitter.com/Bhavyaa76679282">
+<img src="https://skillicons.dev/icons?i=twitter" height="50"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://medium.com/@bhavyaaggarwal278">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="45"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/_bhavya.aggarwal_/">
+<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://t.me/bhavya278">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" height="45"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+
+> **"First, solve the problem. Then, write the code."** 🚀
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=bhavya278&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+If you like my work, don't forget to ⭐ my repositories.
+
+</p>
