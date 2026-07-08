@@ -126,17 +126,6 @@
 
 </p>
 
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhavya278&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya278&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -148,6 +137,15 @@
 
 </p>
 
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bhavya278&theme=algolia&margin-w=15&margin-h=15&column=4"/>
+
+</p>
 
 ---
 
